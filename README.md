@@ -1,3 +1,3 @@
-# pallavirepo
+# SMALL BANKING PROJECT
 my first repository on Github !!!
 learning new things....
